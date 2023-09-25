@@ -7,6 +7,17 @@ public class Aritmetica {
     int a;
     int b;
     
+    //El Constructor es un metodo especial
+    public Aritmetica(){//Constructor 1 Vacio
+        System.out.println("Se esta ejecutando este constructor numero uno");
+    }
+    // Estammos viendo sobrecarga de constructores
+    public Aritmetica(int a, int b){//Constructor 2
+        this.a = a;
+        this.b = b;
+        System.out.println("Se esta ejecutando este constructor numero dos");
+    }
+    
     // Metodo
     public void sumarNumeros(){
         int resultado = a + b;
