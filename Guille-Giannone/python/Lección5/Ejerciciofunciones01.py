@@ -13,3 +13,4 @@ def sumar_valor(*args):  # Recibimos una cantidad de parametros indefinidos
 
 # Llamamos a la funcion
 print(sumar_valor(3, 5, 9, 2, 1))
+# comento
