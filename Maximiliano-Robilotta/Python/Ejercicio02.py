@@ -12,4 +12,3 @@ for indice, i in enumerate(lista): # enumerate: función para modificar los indi
 print(f"Lista final con los elementos multiplicados por {valor}.")
 for i in lista:
     print(i, end="-")
-    

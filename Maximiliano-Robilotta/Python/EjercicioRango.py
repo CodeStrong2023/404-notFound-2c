@@ -25,3 +25,4 @@ for i in rango:
 print('Rango con valores de incio = 3, fin = 10, inremento = 2.')
 for i in range(3, 11, 2):
     print(i)
+

@@ -8,6 +8,7 @@
 # while i <= 50:
 #     lista.append(i)
 #     i += 1
-lista = list(range(1, 51))  # Algoritmo eficaz, realizado de 5 líneas a 1
+lista = list(range(1, 51)) # Algoritmo eficaz, realizado de 5 líneas a 1
 for i in lista:
     print(i, end="-")
+    
