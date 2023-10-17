@@ -2,7 +2,7 @@ package dominio;
 
 public class Persona {
     // Atributos
-    private String nombre;
+    private String nombre; 
     private double sueldo;
     private boolean eliminado;
     
@@ -37,5 +37,10 @@ public class Persona {
         this.eliminado = eliminado;
     }
     
+    public String toString(){ // Convierte e una cadena cada atributo
+        return "Persona [ nombre: "+this.nombre+
+                ", sueldo: "+this.sueldo+
+                ", eliminado: "+this.eliminado+" ]";
+    }
     
 }
