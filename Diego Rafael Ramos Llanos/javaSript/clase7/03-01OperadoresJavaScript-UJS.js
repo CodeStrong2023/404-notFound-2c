@@ -8,7 +8,7 @@ if (parImpar % 2 === 0) {
 //ejercicio: ejercicio es mayor de edad
 var edad = 18
 if (edad >= 18){
-    console.log("Es mayor de edad, cona edad de : "+edad);
+    console.log("Es mayor de edad,edad de : "+edad);
 }else{
-    console.log("Es menor de edad, cona edad de : "+edad);
+    console.log("Es menor de edad,edad de : "+edad);
 }
