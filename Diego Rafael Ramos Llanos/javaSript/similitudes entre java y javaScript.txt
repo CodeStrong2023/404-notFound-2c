@@ -41,3 +41,8 @@ Operador de aumento
 
 Operador de decremento
 --
+Operadores Relacionales (Boolean)
+<
+>
+<=
+>=
