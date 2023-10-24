@@ -13,15 +13,12 @@ def show(name, lastName):
 person = ["Diego", "Rafael"]
 show(person[0], person[1])
 show(*person)
-
 # Desempaquetamos a traves de una tupla.
 tupla = ("Osvaldo", "Giordanini")
 show(*tupla)
-
 # Desempaquetamos un diccionario.
 persona3 = {"lastName": "Lucero", "name": "Natalia"}
 show(**persona3)
-
 numeros = [1, 2, 3, 4, 5]
 
 for i in numeros:
@@ -30,3 +27,44 @@ for i in numeros:
         break
 else:
     print("Esto se terminó")
+nombres = ["Paolo", "Rodrigo", "Lupe", "Pepe"]
+alongP = [p for p in nombres if p[0] == "P"]
+print(alongP)
+
+bottleC = [{"Name": "Quilmes", "Country": "Arg"},
+           {"Name": "Corona", "Country": "Mx"},
+           {"Name": "Stella Artois", "Country": "Belgium"},
+           ]
+Arg = [b for b in bottleC if b["Country"] == "Arg"]
+
+print(Arg)
+print(bottleC)
+
+def mi_funcion2(name,lastName):
+    print("saludos a todos los alumnos de la tecnicatura")
+    print(f"nombre: {name}, apellido: {lastName}")
+
+mi_funcion2("jorge","lucero")
+mi_funcion2("ariel","betancud")
+mi_funcion2("Analia","Pedrosa")
+
+def sumar(a,b):
+    return a+b
+
+resultado=sumar(55,45)
+print(f"el resultado de la suma es: {resultado}")
+print(f"el resultado de la suma es: {sumar(78,22)}")
+
+def sumar2(a=0,b=0):#asignamos un valor por default
+    return a+b
+
+resultado=sumar2()
+print(f"el resultado de la suma es: {resultado}")
+print(f"el resultado de la suma: {sumar2(22,66)}")
+
+
+def listarNombres(*nombres):#se combierten en una tupla
+    for nombre in nombres:
+        print(nombre)
+listarNombres("lucas", "jose", "claudia", "rosa", "maria")
+listarNombres("marcos", "daniel", "romina", "pepe", "marcela","carlos")
