@@ -60,3 +60,6 @@ operadores relacionales(boolean)
 <=
 >=
 
+operadores logicos
+and -> && doble aspersan
+or ->  
