@@ -1,0 +1,14 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>330</x><y>130</y><w>210</w><h>90</h></coordinates><panel_attributes>&lt;&lt;Persona&gt;&gt;
+-nombre:str
+-apellido:str
+-edad:str
+-
+mostrar-detalle</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>260</x><y>280</y><w>200</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>19;12;180;10</additional_attributes></element><element><id>Relation</id><coordinates><x>440</x><y>280</y><w>180</w><h>40</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>159;12;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>430</x><y>210</y><w>40</w><h>90</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>19;12;20;70</additional_attributes></element><element><id>UMLClass</id><coordinates><x>530</x><y>360</y><w>210</w><h>80</h></coordinates><panel_attributes>_persona2:persona_
+--
+nombre:str="osvaldo"
+nombre:str="gioordanini"
+edad:int=45</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>160</x><y>360</y><w>210</w><h>80</h></coordinates><panel_attributes>_persona1:persona_
+--
+nombre:str="ariel"
+nombre:str="betancud"
+edad:int=40</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>570</x><y>280</y><w>40</w><h>110</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>19;82;20;10</additional_attributes></element><element><id>Relation</id><coordinates><x>260</x><y>290</y><w>40</w><h>100</h></coordinates><panel_attributes>lt=&lt;&lt;.</panel_attributes><additional_attributes>19;72;20;10</additional_attributes></element></diagram>
