@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d76230b8-6729-4557-806c-60accc2658f8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../leccion 1/ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 1/ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 1/ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 1/ejerciciotuplas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 1/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 4/ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 4/ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 4/ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 4/ejercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 4/ejercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 4/ejercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 4/ejercicioTuplasListas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 4/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 5/ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 5/ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 5/ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 5/ejercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 5/ejercicio5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 5/ejercicio6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 5/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 7/ejercicio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 7/ejercicio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 7/ejercicio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 7/ejercicio4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 7/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 7/tarea.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../leccion 8/Persona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Persona.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aritmetica.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio1Rectangulo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ejercicio2CUBO.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2XMBSMMLOkyxQ9vpzFR4ocIhyf7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.Persona">
+    <configuration name="Persona" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leccion 9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Persona.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aritmetica" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leccion 9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aritmetica.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio1Rectangulo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leccion 9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicio1Rectangulo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ejercicio2CUBO" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="leccion 9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ejercicio2CUBO.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="leccion 9" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Persona" />
+        <item itemvalue="Python.ejercicio2CUBO" />
+        <item itemvalue="Python.ejercicio1Rectangulo" />
+        <item itemvalue="Python.aritmetica" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d76230b8-6729-4557-806c-60accc2658f8" name="Changes" comment="" />
+      <created>1698429067013</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698429067013</updated>
+    </task>
+    <servers />
+  </component>
+</project>
