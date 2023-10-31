@@ -2,7 +2,7 @@ var nombre = "José";
 var apellido = " Montes";
 var nombreCompleto = nombre+" "+apellido; // Primera Concatenación
 console.log(nombreCompleto);
-var nombreCompleto2 = "Enzo"+" "+"Astorga"; // Seguna Concatenación
+var nombreCompleto2 = "Maximiliano"+" "+"Robilotta"; // Segunda Concatenación
 console.log(nombreCompleto2);
 var juntos = nombre + 219; // Lee de izq a der siguiendo la cadena lee el número como String
 console.log(juntos);
@@ -18,7 +18,7 @@ console.log(nombre);
 let nombre2 = "Pedro";
 console.log(nombre2);
 
-const apellido2 = "Lepes";
+const apellido2 = "Lopes";
 // apellido2 = "Peres"; una constante no puede ser modificada
 console.log(apellido2); // Console = Objeto, que llama al método o función .log y entre paréntesis se colocan los argumentos.
 

@@ -11,7 +11,7 @@ public class Persona {
     protected int edad;
     protected String direccion;
     
-    // Constructor vacío: este es para crear objetos sin necesidad de inicializar
+    // Constructor vacío
     // los atributos de la clase
     public Persona(){ // Constructor 1
         
@@ -60,7 +60,7 @@ public class Persona {
         this.edad = edad;
     }
 
-//    // El toString va a imprimir el estado de cada objeto con el valor de cada atributo
+//    
 //    @Override // Reescribe el toString, heredado de la clase padre Object
 //    public String toString() {
 //        return "Persona{" + "nombre=" + nombre + ", genero=" + genero + ", edad=" + edad + ", direccion=" + direccion + '}';

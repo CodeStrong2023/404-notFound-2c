@@ -6,7 +6,7 @@ realmente diriamos que es identica.
 */
 
 // Tipo String
-var nombre = "Enzo"; 
+var nombre = "Maximiliano"; 
 console.log(typeof nombre);
 nombre = 7;
 console.log(typeof nombre);
@@ -18,9 +18,9 @@ var numero = 3000;
 console.log(numero);
 
 var objeto = {
-    nombre : "Enzo", 
-    apellido : "Astorga",
-    teléfono : "2040696854"
+    nombre : "Maximiliano", 
+    apellido : "Robilotta",
+    teléfono : "2625262526"
 }
 
 console.log(typeof objeto);

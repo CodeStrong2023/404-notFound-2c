@@ -18,15 +18,15 @@ public class Ejercicio09 {
                     JOptionPane.showMessageDialog(null,"La fecha ingresada es: "+dia+"/"+mes+"/"+anio);
                 }
                 else{
-                    JOptionPane.showMessageDialog(null,"Fecha incorrecta, AÑO incorrecto.");
+                    JOptionPane.showMessageDialog(null,"Fecha incorrecta, año incorrecto.");
                 }
             }
             else{
-                JOptionPane.showMessageDialog(null,"Fecha incorrecta, MES incorrecto.");
+                JOptionPane.showMessageDialog(null,"Fecha incorrecta, mes incorrecto.");
             }
         }
         else{
-            JOptionPane.showMessageDialog(null,"Fecha incorrecta, DÍA incorrecto.");
+            JOptionPane.showMessageDialog(null,"Fecha incorrecta, dìa incorrecto.");
         }
     }
     
