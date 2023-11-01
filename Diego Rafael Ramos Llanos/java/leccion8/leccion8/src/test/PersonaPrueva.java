@@ -14,5 +14,6 @@ public class PersonaPrueva {
         System.out.println("persona1 para obtener el booleano: "+persona1.isEliminado());
         //Tarea: crear otro objeto de tipo persona , asignar valores de manera inicial
         //y imprimir, luego modificar sus valores y luego vover a imprimir con los valores nuevos
+        System.out.println("persona1 = " + persona1);
     }
 }
