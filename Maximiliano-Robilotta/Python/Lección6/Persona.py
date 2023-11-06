@@ -41,3 +41,5 @@ persona3 = Persona("Rogelio", "Romero", 35789456, 22, "Teléfono", "2614445557",
 persona3.mostrar_detalle()
 # print(persona3.dni) # esto no se debe utilizar (está encapsulado), esto dice que lo desconocemos python
 # persona3.__nombre # Está totalmente encapsulado
+
+
