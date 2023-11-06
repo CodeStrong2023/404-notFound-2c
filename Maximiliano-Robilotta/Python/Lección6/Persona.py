@@ -37,7 +37,7 @@ persona1.telefono = "44445555289"
 print(f"Este es el teléfono de: {persona1.nombre} {persona1.telefono}") # Hemos creado un atributo de un Objeto
 
 # print(persona2.telefono) el objeto persona2 no tiene este atributo, da error
-persona3 = Persona("Rogelio", "Romero", 35789456, 22, "Teléfono", "2614445557", "Calle López", 823, "Manzana", 77, "Casa", 18, Altura=1.83, Peso=105, CFavorito="Azul", Auto="Citroen", Modelo=2021)
+persona3 = Persona("Rodrigo", "Rojas", 5654575859, 29, "Teléfono", "2614445557", "Calle López", 823, "Manzana", 77, "Casa", 18, Altura=1.83, Peso=105, CFavorito="Azul", Auto="Citroen", Modelo=2021)
 persona3.mostrar_detalle()
 # print(persona3.dni) # esto no se debe utilizar (está encapsulado), esto dice que lo desconocemos python
 # persona3.__nombre # Está totalmente encapsulado

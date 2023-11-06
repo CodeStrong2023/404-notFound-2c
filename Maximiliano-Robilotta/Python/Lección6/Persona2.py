@@ -49,33 +49,33 @@ if __name__ == "__main__":
     # para modificar y mostrar los cambios con el método mostrar_detalles
 
     # Objeto número 1 de la tarea
-    persona2 = Persona2("María", "Martínez", 25)
+    persona2 = Persona2("Angel", "Frias", 25)
     print(persona2.nombre)
     print(persona2.apellido)
     print(persona2.edad)
-    persona2.nombre = "Marta"
-    persona2.apellido = "Benitez"
-    persona2.edad = "29"
+    persona2.nombre = "Matias"
+    persona2.apellido = "Bustamante"
+    persona2.edad = "19"
     print(persona2.mostrar_detalles())
 
     # Objeto número 2 de la tarea
-    persona3 = Persona2("Marito", "Roa", 33)
+    persona3 = Persona2("Mirko", "Cascon", 33)
     print(persona3.nombre)
     print(persona3.apellido)
     print(persona3.edad)
-    persona3.nombre = "Mario"
-    persona3.apellido = "Mora"
-    persona3.edad = "34"
+    persona3.nombre = "Laureano"
+    persona3.apellido = "Ramos"
+    persona3.edad = "43"
     print(persona3.mostrar_detalles())
 
     # Objeto número 3 de la tarea
-    persona4 = Persona2("Nacho", "Álvarez", 25)
+    persona4 = Persona2("Joaquin", "Armani", 25)
     print(persona4.nombre)
     print(persona4.apellido)
     print(persona4.edad)
-    persona4.nombre = "Ignacio"
-    persona4.apellido = "Aravena"
-    persona4.edad = "23"
+    persona4.nombre = "Agustin"
+    persona4.apellido = "Romero"
+    persona4.edad = "26"
     print(persona4.mostrar_detalles())
 
     print(__name__)
