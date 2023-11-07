@@ -31,15 +31,15 @@ class Auto(Vehiculo):
         self.velocidad=velocidad
 
     def __str__(self):
-        return super().__str__(),', velocidad km/h ) '+str(self.velocidad)
+        return super().__str__()+', velocidad km/h ) '+str(self.velocidad)
 
 class Bicicleta(Vehiculo):
     def __init__(Self,color,ruedas,tipo):
         super().__init__(color,ruedas)
-        self.tipo=tipo
+        Self.tipo=tipo
 
     def __str__(Self):
-        return super().__str__()+" . tipo:" +self.tipo
+        return super().__str__()+" . tipo:" +Self.tipo
 #primer objeto de la clase padre vehiculo
 vehiculo=Vehiculo("blanco",4)
 print(vehiculo)
