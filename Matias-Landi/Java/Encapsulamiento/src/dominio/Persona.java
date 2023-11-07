@@ -39,5 +39,10 @@ public class Persona {
         this.eliminado = eliminado;
     }
     
+    public String toString(){ //Convierte en una cadena cad atributo
+        return "Persona [ nombre: "+this.nombre+
+                ", sueldo: "+this.sueldo+
+                ", eliminado: "+this.eliminado+" ]";
+    }
     
 }
