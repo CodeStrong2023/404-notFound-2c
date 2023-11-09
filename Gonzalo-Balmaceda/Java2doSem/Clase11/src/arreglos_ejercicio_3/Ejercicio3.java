@@ -5,8 +5,9 @@ import java.util.Scanner;
 public class Ejercicio3 {
     public static void main(String[] args) {
            /*
-        Ejercicios 3 = Leer 5 números, guardarlos en un arreglo y mostrarlos
-        en el orden inverso.
+        Ejercicios 3 = Leer 5 números por teclado, almacenarlos en un arreglo y a continuación
+        realizar la media de los números positivos, la media de los negativos y contar el número
+        de ceros.
         */
 
         Scanner entrada = new Scanner(System.in);
