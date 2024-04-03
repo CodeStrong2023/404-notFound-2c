@@ -27,7 +27,7 @@ public class EjercicioWhile01 {
 // comienza un incremento o decremento hasta que la condición sea falsa y salga.
       
         for(var contando = 0; contando <= 7; contando++){ 
-            // El primer espacio entre los punto y coma es para declarar una variables
+            // El primer espacio entre los puntos y coma es para declarar una variables
             // de tipo contador o iterador, la cuál se incrementa.
             //El segundo espacio es para la condición a cumplir.
             //El tercer espacio es para incrementar o decrementar el iterador, contador o variable.
